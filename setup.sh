@@ -801,7 +801,7 @@ function menu(){
     clear
     print_install "Memasang Menu Packet"
     wget ${REPO}menu/menu.zip
-    7z x -pBuluJembut567 menu.zip
+    7z x -pZaajembut3541 menu.zip
     chmod +x menu/*
     mv menu/* /usr/local/sbin
     rm -rf menu
